@@ -11,7 +11,13 @@
 * [“Russia”, “Denmark”, “Kazan”]      →     []
 </pre>
 ## Решение:
-В разработке...
+1. Создан репозиторий "my_FinalTask" с тремя ветками: "main", "develop" и "design".
+2. Работа над кодом велась в ветке "develop", работа над блок-схемой — в "design".
+3. По завершению работы ветки "develop" и "design" слиты в главную через операцию "merge".
+4. В файле "myTask.cs" находится код реализации решения, описанного в блок-схеме "myDiagram.png".
+5. Ниже представлено описание алгоритма решения задачи:
+
+...в процессе...
 
 <!-- "GitHub" -->
 ![](https://github.com/DAYIAWAN/Course-at-GB/blob/main/myTemplates/Var_1/index_files/0.gif?raw=true "")
